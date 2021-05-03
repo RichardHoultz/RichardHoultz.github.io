@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   background: rgba(52, 58, 64, 0.2);
   transition: all 0.5s;
-  z-index: 997;
+  /* z-index: 997; */
   top: 40px;
 }
 
